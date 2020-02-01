@@ -4,7 +4,6 @@
 
 layout: home
 ---
+## Welcome to DwarsWeb!
 
-# Welcome
-
-**Hello world**, this is my homepage.
+![GAOS](https://user-images.githubusercontent.com/60137488/73176098-eb848e00-410b-11ea-85aa-10a67531238b.jpg)
